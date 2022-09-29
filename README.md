@@ -2,7 +2,7 @@
 ## Exploratory Analysis
 
 ## Libraries
-  - **Python**: Pandas, Sweetviz, Matplotlib,  Plotly 
+  - **Python**: Pandas, Sweetviz, Matplotlib,  Plotly , Seaborn
   
   ##  Instruções para executar os notebooks Python localmente.
 
