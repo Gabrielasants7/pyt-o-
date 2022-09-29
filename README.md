@@ -3,3 +3,7 @@
 
 ## Libraries
   - **Python**: Pandas, Sweetviz, Matplotlib,  Plotly 
+  
+  ##  Instruções para executar os notebooks Python localmente.
+
+    1. GOOGLE COLAB
